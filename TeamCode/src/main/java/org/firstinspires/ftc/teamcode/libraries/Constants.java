@@ -63,3 +63,4 @@ public class Constants {
 
     public enum GoldObjectPosition {LEFT, CENTER, RIGHT}
 }
+//Test
